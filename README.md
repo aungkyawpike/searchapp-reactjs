@@ -3,8 +3,7 @@
 ## Setup Instructions
 
 ### Prerequisites
-- Node.js (version X.X.X)
-- npm (version X.X.X) or yarn (version X.X.X)
+
 
 1. **Install dependencies**:
    npm install --force
